@@ -2,7 +2,7 @@
 
 - My name is DOLLERSHIPHING or also supex
 - I code occasionally in nodejs.
-- I'm currently 1️⃣7️⃣ years of age
+- I'm currently 1️⃣8️⃣ years of age
 
 ## My projects
 
